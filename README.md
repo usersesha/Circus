@@ -16,6 +16,6 @@ In README file, I will only present the user interface.
 ## BUY A TICKET
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/92959823/188652222-a7703bd0-3027-42ca-9561-a04397fbb1b6.png">
 
-##TOURING
+## TOURING
 
 <img width="800" alt="image" src="https://user-images.githubusercontent.com/92959823/188653127-3eebc59e-b3b4-4655-ba8e-8312bf865dfd.png">
