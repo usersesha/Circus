@@ -1,7 +1,7 @@
 # Circus
 
 Hello everyone, I made this site during my training. This was my HTML and CSS exam.
-It took 5 hours from the moment the "Circus" theme was received to the unloading of this project.
+It took 5 hours from the moment the "Circus" theme was received to the unloading this project.
 In README file, I will only present the user interface.
 ## HOME
 
